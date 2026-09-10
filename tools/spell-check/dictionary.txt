@@ -10,6 +10,7 @@ bsid
 buflen
 cidr
 distinguisher
+dpuatsfh
 dscp
 ebgp
 enlp
@@ -24,6 +25,7 @@ goroutine
 goroutines
 grpc
 gzip
+headend
 ibgp
 interwork
 ipproto
@@ -36,6 +38,7 @@ localhost
 messageloop
 mgmt
 mpls
+mtid
 multicast
 multihop
 multipath
@@ -43,6 +46,7 @@ nexthop
 nexthops
 nlri
 ospf
+pcep
 pmsi
 prepend
 reachability
@@ -50,10 +54,12 @@ regexp
 reservable
 reuseaddr
 rpki
+sabevodcitu
 sadb
 safi
 srgb
 srlg
+srpolicy
 subcode
 syscall
 syslog
